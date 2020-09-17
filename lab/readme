@@ -1,0 +1,5 @@
+run
+
+g++ -std=c++14 -pthread es15btech11002.cpp
+
+have inp-params.txt in same folder with all params.
